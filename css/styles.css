@@ -123,3 +123,8 @@ i {
   margin: 0 20px;
 
 }
+
+@media (min-wdith: 320px) and (max-wdth: 568px )
+{
+  
+}
